@@ -6,6 +6,7 @@ We’ve researched and innovated a significant addition to the existing “prote
 Arduino code for a helmet that detects accidents as well as reports them to relevant authorities. <br/>
 - Won 3rd prize at Technovity '20
 - Won the best Innovation Project in Alpha Hacks '21
+- etc.
 
 Contributors: 
 - Arghya Shubhshiv: https://github.com/ArghyaShubhshiv/
